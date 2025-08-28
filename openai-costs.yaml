@@ -1,0 +1,17 @@
+model:
+  - name: gpt-4.1-mini
+    input: 0.40
+    cached_input: 0.10
+    output: 1.60
+  - name: gpt-4.1-nano
+    input: 0.10
+    cached_input: 0.03
+    output: 0.40
+  - name: gpt-5-mini
+    input: 0.25
+    cached_input: 0.025
+    output: 2
+  - name: gpt-5-nano
+    input: 0.05
+    cached_input: 0.005
+    output: 0.40
